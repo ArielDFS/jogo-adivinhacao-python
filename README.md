@@ -11,8 +11,8 @@ Um jogo interativo de adivinhação de números com múltiplas dificuldades e hi
 - 👤 Personalização com nome do jogador
 
 ## 🛠️ Requisitos
-Python 3.6+
-Módulos: random, os (já incluídos na biblioteca padrão)
+- Python 3.6+
+- Módulos: random, os (já incluídos na biblioteca padrão)
 
 ## 🚀 Como executar
 
