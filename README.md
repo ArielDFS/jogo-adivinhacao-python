@@ -13,4 +13,4 @@ Um jogo interativo de adivinhação de números com múltiplas dificuldades e hi
 ## 🚀 Como executar
 
 ```bash
-python jogo_advinhacao.py
+python jogo_de_advinhacao.py
